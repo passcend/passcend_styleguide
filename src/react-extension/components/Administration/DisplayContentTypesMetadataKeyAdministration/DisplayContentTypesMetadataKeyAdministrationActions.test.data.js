@@ -1,5 +1,6 @@
 /**
- * Passbolt ~ Open source password manager for teams
+ * Passcend ~ Open source password manager for teams
+ * Based on Passbolt CE (https://www.passbolt.com)
  * Copyright (c)  Passbolt SA (https://www.passbolt.com)
  *
  * Licensed under GNU Affero General Public License version 3 of the or any later version.

@@ -1,7 +1,8 @@
 import {ICON_TYPE_KEEPASS_ICON_SET, ICON_TYPE_PASSBOLT_ICON_SET} from "../resource/metadata/IconEntity";
 
 /**
- * Passbolt ~ Open source password manager for teams
+ * Passcend ~ Open source password manager for teams
+ * Based on Passbolt CE (https://www.passbolt.com)
  * Copyright (c) Passbolt SA (https://www.passbolt.com)
  *
  * Licensed under GNU Affero General Public License version 3 of the or any later version.

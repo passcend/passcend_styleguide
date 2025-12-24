@@ -1,5 +1,6 @@
 /**
- * Passbolt ~ Open source password manager for teams
+ * Passcend ~ Open source password manager for teams
+ * Based on Passbolt CE (https://www.passbolt.com)
  *
  * @url           https://gist.github.com/ammarshah/f5c2624d767f91a7cbdc4e54db8dd0bf
  * @author        ammarshah
