@@ -1,11 +1,11 @@
 {
-  "name": "passbolt-styleguide",
-  "version": "5.8.2",
+  "name": "passcend-styleguide",
+  "version": "0.1.0",
   "license": "AGPL-3.0",
-  "copyright": "Copyright 2023 Passbolt SA",
-  "description": "Passbolt styleguide contains common styling assets used by the different sites, plugin, etc.",
-  "homepage": "https://www.passbolt.com",
-  "repository": "https://github.com/passbolt/passbolt_styleguide",
+  "copyright": "Copyright 2024 Passcend",
+  "description": "Passcend styleguide - Korean password manager UI components",
+  "homepage": "https://github.com/pinkwingman/passcend",
+  "repository": "https://github.com/pinkwingman/passcend",
   "engines": {
     "node": ">=22.14.0",
     "npm": ">=10.9.2"
